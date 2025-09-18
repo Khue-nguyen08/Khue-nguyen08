@@ -4,7 +4,7 @@ I have been working at Lamont Doherty Earth Laboratory as a lab manager of a Tra
 ## Education
 | | | |
 |:--:|:--:|:--:|
-|Columbia University in New York, Mailman School of Public Health | M.S. Biotastistic (graduate 2026)|
+|Columbia University in New York, Mailman School of Public Health | M.S. Biotastistic (graduate 2027)|
 |City University of New York, School of Public Health | M.S.P.H. Environmental and Occupational Health|
 |Vietnam National University, HaNoi University of Sciene | M.S. Environmental Sciences |
 |Vietnam national University, HaNoi University of Science |  B.S. Environmental Technology|
